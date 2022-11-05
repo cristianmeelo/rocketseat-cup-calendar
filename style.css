@@ -51,7 +51,18 @@ body * {
 }
 
 header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+ 
+}
+header img {
   margin-bottom: 3.9375rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
 }
 
 main {
