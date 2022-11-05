@@ -7,21 +7,29 @@
 :root {
   --card-color-primary: #f7dd43;
   --card-title-border-color-primary: #746615;
-  --card-bg-color:#1d1c19;
-  
+  --card-bg-color: #1d1c19;
+  --bg: url(assets/bg-yellow.svg);
 }
-
 
 body.blue {
   --card-color-primary: #338af3;
   --card-title-border-color-primary: #338af3;
-  --card-bg-color:#202024;
+  --card-bg-color: #202024;
+  --bg: url(assets/bg-blue.svg);
 }
 
 body.green {
-  --card-color-primary: #047C3F;
-  --card-title-border-color-primary: #047C3F;
-  --card-bg-color:#1a1f1b;
+  --card-color-primary: #047c3f;
+  --card-title-border-color-primary: #047c3f;
+  --card-bg-color: #1a1f1b;
+  --bg: url(assets/bg-green.svg);
+}
+
+body.theme-cristian {
+  --card-color-primary: #23b5d6;
+  --card-title-border-color-primary: #23b5d6;
+  --card-bg-color: #1a1f1b;
+  --bg: url(assets/bg-blue.svg);
 }
 
 ul {
@@ -29,10 +37,7 @@ ul {
 }
 
 body {
-  background-color: #121212;
-  background-image: url(assets/bg-yellow.svg);
-  background-position-x: center;
-  background-position-y: 55%;
+  background: #121212 var(--bg) no-repeat top center/cover;
 }
 
 body * {
@@ -41,7 +46,8 @@ body * {
 
 #app {
   width: fit-content;
-  margin: 3.25rem auto;
+  margin: auto auto;
+  padding-top: 3.25rem;
 }
 
 header {
