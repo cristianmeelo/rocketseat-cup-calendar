@@ -1,57 +1,43 @@
-<h1 align="center"> Trilha Explorer NLW Copa </h1>
-<p align="center">Evento exlusivo e gratuito, promovido pela Rocketeat para ensino de tecnologias WEB. </p>
+![Explorer Trail NLW Cup](thumbnail.png)
 
-<p align="center">
-<a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#-memo-license">Licença</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
+# Explorer Trail NLW Cup
 
-<p align="center">
-<img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelCOlor=000000"></img>
-</p>
+NLW Explorer Trail Cup.
+Exclusive and free event, promoted by Rocketeat for teaching WEB technologies.
 
-<br><br><br>
+<img src="screencapture.png" alt="Image App" width="50%">
 
-<p align="center">
-<img alt="calendario da copa" src=".github/preview.jpg"></img>
-</p>
+## 🔨 Project features
 
-<br><br><br>
+This is a World Cup Calendar, a project that shows the matches of the 2022 World Cup in Brazil.
 
-## 🧰 Tecnologias
+The World Cup is a sporting event of great importance for Brazil for several reasons.
 
-Esse projeto foi desenvolvivo com as seguintes tecnologias:
+First, Brazil is a nation passionate about football, and the World Cup is the sport's most important competition, bringing together the best teams and players in the world. As such, the event is a great cause for celebration and national pride, with the opportunity for the country to showcase its skills on the field and compete with other nations.
 
-- HTML e CSS
-- JavaScript
-- Git e Github
-- Responsividade
+The [Figma of this application you can find here](https://www.figma.com/file/AAZVQKtKd7X703W0m3EYVO/Calend%C3%A1rio-de-Jogos-(Community)?node-id=122%3A130github.com/).
 
-<br><br>
+## ✔️ Techniques and technologies used
 
-## 📝 Projeto
+Check out this list of everything we will use in this app:
 
-O calendário da Copa é um projeto que mostra os jogos da chave do Brasil da Copa de 2022.
+- `Responsiveness`
+- `JavaScript`
+- `HTML 5`
+- `CSS 3`
+- `Conditional Rendering`
+- `AWS Deployment`
+- `GitHub`
 
-<br><br>
+## 🛠️ Open and run the project
 
-## 🖼️ Layout
+To open and run the project, add the Live Server extension, click on the Go Live button usually located in the lower right corner if you are using vscode.
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/AAZVQKtKd7X703W0m3EYVO/Calend%C3%A1rio-de-Jogos-(Community)?node-id=122%3A130github.com/).
+Then go to <a href="http://127.0.0.1:5500/">http://127.0.0.1:5500/</a> in your browser.
 
-<br><br>
+## 📚 More course information
 
-## 🔗 Link da Página
+NLW Cup is a track designed to develop frontend skills. The main idea is the most basic task of a frontend, implementing a figma design. The difference is the maximum reuse of logic in the css file to generate game cards.
 
-Você pode acessar a página através [DESSE LINK](https://cristianmeelo.github.io/Trilha-Explorer-NLW-Copa/).
-<br><br><br><br>
-
-Esse projeto está sob a licença MIT.
-
----
-
-https://www.linkedin.com/in/cristian-melo/
 
 
